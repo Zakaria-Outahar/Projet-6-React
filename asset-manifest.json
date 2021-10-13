@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Projet-6-React/static/css/main.d8e2a4f4.chunk.css",
+    "main.js": "/Projet-6-React/static/js/main.316f5fd1.chunk.js",
+    "main.js.map": "/Projet-6-React/static/js/main.316f5fd1.chunk.js.map",
+    "runtime-main.js": "/Projet-6-React/static/js/runtime-main.9c8291e9.js",
+    "runtime-main.js.map": "/Projet-6-React/static/js/runtime-main.9c8291e9.js.map",
+    "static/js/2.9eeff0a3.chunk.js": "/Projet-6-React/static/js/2.9eeff0a3.chunk.js",
+    "static/js/2.9eeff0a3.chunk.js.map": "/Projet-6-React/static/js/2.9eeff0a3.chunk.js.map",
+    "index.html": "/Projet-6-React/index.html",
+    "static/css/main.d8e2a4f4.chunk.css.map": "/Projet-6-React/static/css/main.d8e2a4f4.chunk.css.map",
+    "static/js/2.9eeff0a3.chunk.js.LICENSE.txt": "/Projet-6-React/static/js/2.9eeff0a3.chunk.js.LICENSE.txt",
+    "static/media/pause.f8c47a1a.svg": "/Projet-6-React/static/media/pause.f8c47a1a.svg",
+    "static/media/play.b23df41a.svg": "/Projet-6-React/static/media/play.b23df41a.svg",
+    "static/media/reset.adefad1d.svg": "/Projet-6-React/static/media/reset.adefad1d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c8291e9.js",
+    "static/js/2.9eeff0a3.chunk.js",
+    "static/css/main.d8e2a4f4.chunk.css",
+    "static/js/main.316f5fd1.chunk.js"
+  ]
+}
